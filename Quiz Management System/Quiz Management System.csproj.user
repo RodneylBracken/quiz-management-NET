@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AppForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewSubject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StuLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_UC\UC_AddNewQuestion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Udelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uLecture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uQuiz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uStuReg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UstuResults.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="uUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
